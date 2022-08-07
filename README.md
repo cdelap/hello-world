@@ -1,3 +1,3 @@
 # HelloWorld
 
-Types Hello World
+Types Hello World!
